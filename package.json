@@ -1,0 +1,16 @@
+{
+  "name": "book-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://EbrahemHares.github.io/Bookstore",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
